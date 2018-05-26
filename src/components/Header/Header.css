@@ -1,0 +1,17 @@
+#absCenter {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#navH {
+    height: 44px;
+}
+
+#Title {
+    margin:0 auto;
+}
+
+#Userbtn {
+    color: black;
+}
